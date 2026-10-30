@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/horikawa-chunagon-utaawase",
  "yomi": "ほりかわちゅうなごんけうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "平安中期",
+  "author": "主催 藤原兼通",
+  "desc": "堀川中納言藤原兼通が横川に登って修法を行った折、雨の徒然に人々が集まって催した歌合。左の頭を通家、右の頭を忠信がつとめ、「岩の上の松」などの題で番える。"
+ },
  "editions": [
   {
    "pid": "1879502",
